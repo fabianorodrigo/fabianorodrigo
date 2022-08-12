@@ -1,6 +1,6 @@
 Fabiano Nascimento
 ===
-### Software Developer | Solidity Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
+### Software Developer | Solidity Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" style="filter: invert(100%);" />
           
           
           
