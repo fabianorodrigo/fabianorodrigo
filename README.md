@@ -81,6 +81,21 @@ Credential ID: I378-8944
 ### PMP - Project Management Professional
 PMI - Project Management Institute | Feb 2012 - Fev-2018
 
+# Publications
+
+### Automated Evaluation of Open Government Data Portals: A Case Study
+[International Journal of Electronic Government Research](https://www.igi-global.com/article/automated-evaluation-of-open-government-data-portals/220475)  | Sep 2018
+
+The vast majority of models of quality evaluation of open data portals incorporate manual evaluation processes, which makes it time consuming and expensive to maintain a continuous evaluation. In order to verify the reliability of the results generatedby an automated evaluation model, a comparative analysis was performed between an automated model and a manual model.
+
+# Languages
+
+### Portuguese
+Native speaker
+
+### English
+[C2 Proficient ](https://www.efset.org/cert/UA29Pc)
+
 <!--
 **fabianorodrigo/fabianorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
