@@ -75,6 +75,8 @@ Pontifícia Universidade Católica do Rio de Janeiro | 2005-2006
 ### Graduation in Information Technology 🧑‍🎓
 Universidade Vale do Rio Doce | 1997-2000
 
+<div style="page-break-after: always;"></div>
+
 # Certifications
 
 ### Microsoft Certified: Azure Fundamentals
