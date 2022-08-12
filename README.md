@@ -72,7 +72,14 @@ Pontifícia Universidade Católica do Rio de Janeiro | 2005-2006
 ## Graduation in Information Technology 🧑‍🎓
 Universidade Vale do Rio Doce | 1997-2000
 
+# Certifications
 
+## Microsoft Certified: Azure Fundamentals
+Microsoft | Aug 2022
+Credential ID: I378-8944
+
+## PMP - Project Management Professional
+PMI - Project Management Institute | Feb 2012 - Fev-2018
 
 <!--
 **fabianorodrigo/fabianorodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
