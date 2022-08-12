@@ -1,7 +1,7 @@
 Fabiano Nascimento
 ===
 ### Software Developer | Solidity Developer 
-### Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
+#### Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 # About
 
@@ -57,6 +57,24 @@ Software development using Microsoft .NET platform with Visual Studio and C#, co
 Jan 2001 - Feb 2002
 
 Analysis and development of web applications that, among other features, allowed the registration of fund and equity investment operations, adherence to private pension plans, comparison of interest rates on loans with different financial institutions and monitoring of market information. The development was performed using ASP, Visual Basic, VBScript, JavaScript, SQL Server, among others.
+
+
+# Education
+
+## Federal University of the State of Rio de Janeiro
+### Master's Degree in Informatics
+#### 2018-2020
+
+Research on automatic generation of unit tests of smart contracts for projects based on Truffle Framework, which included a tool developed in Node.js, Typescript and React to run the experimental analysis.
+
+## Pontifícia Universidade Católica do Rio de Janeiro
+### Postgraduate Degree in Sofware Project Management
+#### 2005-2006
+
+## Universidade Vale do Rio Doce
+### Graduation in Information Technology
+#### 1997-2000
+
 
 
 <!--
