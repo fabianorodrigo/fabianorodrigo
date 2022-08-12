@@ -61,24 +61,24 @@ Analysis and development of web applications that, among other features, allowed
 
 # Education
 
-## Master's Degree in Informatics 🔬
+### Master's Degree in Informatics 🔬
 Federal University of the State of Rio de Janeiro | 2018-2020
 
 Research on automatic generation of unit tests of smart contracts for projects based on Truffle Framework, which included a tool developed in Node.js, Typescript and React to run the experimental analysis.
 
-## Postgraduate Degree in Sofware Project Management 🧑‍💼
+### Postgraduate Degree in Sofware Project Management 🧑‍💼
 Pontifícia Universidade Católica do Rio de Janeiro | 2005-2006
 
-## Graduation in Information Technology 🧑‍🎓
+### Graduation in Information Technology 🧑‍🎓
 Universidade Vale do Rio Doce | 1997-2000
 
 # Certifications
 
-## Microsoft Certified: Azure Fundamentals
+### Microsoft Certified: Azure Fundamentals
 Microsoft | Aug 2022
 Credential ID: I378-8944
 
-## PMP - Project Management Professional
+### PMP - Project Management Professional
 PMI - Project Management Institute | Feb 2012 - Fev-2018
 
 <!--
