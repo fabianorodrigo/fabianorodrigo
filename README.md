@@ -1,6 +1,7 @@
 Fabiano Nascimento
 ===
-### Software Developer | Solidity Developer  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### Software Developer | Solidity Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+          
           
           
 Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
