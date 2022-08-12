@@ -4,6 +4,8 @@ Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 <img src="blockchain.png" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30" />
 
+
+
 # About
 
 I have more than 20 years of technical experience in software development for different business areas using a diversified technology stack, such as .NET, C#, J2EE, Quarkus, Spring Boot, Node.js, Javascript, React, Typescript, Angular etc.
@@ -11,6 +13,12 @@ I have more than 20 years of technical experience in software development for di
 In the last 3 years, I've been working on side projects for blockchain which technology stack includes Hardhat, Waffle, Truffle, Ganache, Ethers.js, Web3.js, Solidity, Openzeppelin, Angular. I'm also making use of different solutions of CI/CD, for now Circle CI and Github Actions, includind build, integration tests and static analysis with Slither.
 
 For more details about my career, please [access my CV](./CV.md) 
+
+<div>
+<a href="https://github.com/fabianorodrigo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianorodrigo&layout=compact&langs_count=7&theme=dark&&hide=HTML"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianorodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 # Let's connect
 
