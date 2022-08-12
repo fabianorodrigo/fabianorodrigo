@@ -10,7 +10,7 @@ Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 <samp>I have more than 20 years of technical experience in software development for different business areas using a diversified technology stack, such as .NET, C#, J2EE, Quarkus, Spring Boot, Node.js, Javascript, React, Typescript, Angular etc.</samp>
 
-<samp>In the last 3 years, I've been working on side projects for blockchain which technology stack includes Hardhat, Waffle, Truffle, Ganache, Ethers.js, Web3.js, Solidity, Openzeppelin, Angular. I'm also making use of different solutions of CI/CD, for now Circle CI and Github Actions, includind build, integration tests and static analysis with Slither.</samp>
+<samp>In the last 3 years, I've been working on side projects for blockchain which technology stack includes Hardhat, Waffle, Truffle, Ganache, Ethers.js, Web3.js, Solidity, Openzeppelin, Angular. I'm also making use of different solutions of CI/CD, for now Circle CI and Github Actions, including build, integration tests and static analysis with Slither.</samp>
 
 <samp>For more details about my career, please [access my CV](./CV.md) in this same repository.</samp>
 
