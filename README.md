@@ -14,14 +14,14 @@ In the last 3 years, I've been working on side projects for blockchain which tec
 ## Ancine - Films National Regulatory Agency 📽️
 
 ### Software Developer & Architect 
-#### Since August 2020
+Since August 2020
 
 Development of DevOps pipelines automation based on Jenkins Shared Libraries (Groovy). 
 Development of cloud native application using Java frameworks Spring Boot and Quarkus for backend, JUnit for automated tests, and Angular for frontend. Development of Helm Charts to deploy applications to Kubernetes.
 Support for Kubernetes cluster administration.
 
 ### Systems Development Team Leader
-#### May 2019 - Jul 2020
+May 2019 - Jul 2020
 
 Coordination of systems development teams; elaboration and modeling of the processes inherent to the management of the organization's projects; bidding, contracting and technical inspection of contracts; actions to promote agile project management at the department; mentoring of project management teams.
 
@@ -63,17 +63,17 @@ Analysis and development of web applications that, among other features, allowed
 
 ## Federal University of the State of Rio de Janeiro
 ### Master's Degree in Informatics
-#### 2018-2020
+2018-2020
 
 Research on automatic generation of unit tests of smart contracts for projects based on Truffle Framework, which included a tool developed in Node.js, Typescript and React to run the experimental analysis.
 
 ## Pontifícia Universidade Católica do Rio de Janeiro
 ### Postgraduate Degree in Sofware Project Management
-#### 2005-2006
+2005-2006
 
 ## Universidade Vale do Rio Doce
 ### Graduation in Information Technology
-#### 1997-2000
+1997-2000
 
 
 
