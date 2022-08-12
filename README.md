@@ -1,6 +1,7 @@
 Fabiano Nascimento
 ===
-### Software Developer | Solidity Developer 
+### Software Developer | Solidity Developer   <i class="devicon-solidity-plain colored"></i>
+          
 Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 # About
