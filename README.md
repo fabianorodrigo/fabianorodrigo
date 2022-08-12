@@ -1,9 +1,6 @@
 Fabiano Nascimento
 ===
-### Software Developer | Solidity Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" style="filter: invert(100%);" />
-          
-          
-          
+### Software Developer | Solidity Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" height="35" />
 Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 # About
@@ -83,6 +80,7 @@ Credential ID: I378-8944
 
 ### PMP - Project Management Professional
 PMI - Project Management Institute | Feb 2012 - Fev-2018
+Credential ID: 1486303
 
 # Publications
 
