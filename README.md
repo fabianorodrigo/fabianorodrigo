@@ -14,17 +14,27 @@ Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
 
 <samp>For more details about my career, please [access my CV](./CV.md) in this same repository.</samp>
 
+<br/>
+  
+<img src="https://komarev.com/ghpvc/?username=fabianorodrigo&style=flat-square"> <img src="https://img.shields.io/github/last-commit/fabianorodrigo/fabianorodrigo/main?label=Last%20updated&style=flat-square">
 
-<div>
+# Public Work Summary
+
+<p align="center">
+<a href="https://github.com/fabianorodrigo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-All Repos-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+<a href="https://github.com/stars/fabianorodrigo/lists/web-3-0" target="_blank"><img src="https://img.shields.io/badge/Web 3.0-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white" target="_blank"></a>
+<a href="https://github.com/stars/fabianorodrigo/lists/node-js" target="_blank"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" target="_blank"></a>
+<a href="https://github.com/stars/fabianorodrigo/lists/angular" target="_blank"><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" target="_blank"></a>
+<a href="https://github.com/stars/fabianorodrigo/lists/react" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" target="_blank"></a>
+</p>
+
+<div align="center">
 <a href="https://github.com/fabianorodrigo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianorodrigo&layout=compact&langs_count=7&theme=dark&&hide=HTML"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianorodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<br/>
-  
-<img src="https://komarev.com/ghpvc/?username=fabianorodrigo&style=flat-square"> <img src="https://img.shields.io/github/last-commit/fabianorodrigo/fabianorodrigo/main?label=Last%20updated&style=flat-square">
-  
+ 
 
 # Let's connect
 
