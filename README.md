@@ -1,6 +1,6 @@
 Fabiano Nascimento
 ===
-Rio de Janeiro, Rio de Janeiro, Brazil 🇧🇷
+Rio de Janeiro, Rio de Janeiro, Brazil
 
 <img src="blockchain.png" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30" />
 
