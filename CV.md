@@ -85,7 +85,7 @@ Microsoft | Aug 2022
 Credential ID: I378-8944
 
 ### PMP - Project Management Professional
-PMI - Project Management Institute | Feb 2012 - Fev-2018
+PMI - Project Management Institute | Feb 2012 - Fev-2021
 Credential ID: 1486303
 
 # Publications
