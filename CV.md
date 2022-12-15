@@ -64,7 +64,7 @@ Jan 2001 - Feb 2002
 # Web3 Courses
 
 ### DeFi
-Central Bank of Brazil| Jul 2022 - Nov 2022 (40h)
+Central Bank of Brazil | Jul 2022 - Nov 2022 (40h)
 
 <samp>This course included a hackathon where our team developed a Decentralized Identity Solution based on Non-Tradable Tokens Standard (ERC-4671) and Metamask snaps. I particularly was in charge of smart contracts development.</samp>
 
@@ -84,8 +84,6 @@ Pontifícia Universidade Católica do Rio de Janeiro | 2005-2006
 
 ### Graduation in Information Technology 🧑‍🎓
 Universidade Vale do Rio Doce | 1997-2000
-
-
 
 
 # Certifications
