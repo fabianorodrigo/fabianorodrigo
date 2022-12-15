@@ -31,9 +31,7 @@ May 2019 - Jul 2020
 ### Project Leader & Software Developer
 May 2014 - May 2019
 
-<samp>Project leadership with local and remote outsourced teams using both agile and traditional (PMBOK) methodologies and best practices. These projects include systems development and maintenance projects, ETL design for dimensional database construction and also the creation and modeling the organization's software development process.</samp>
-
-<samp>Besides project leadership, I also worked on development of backend APIs and frontend using Java platforms (EJB, JSF, Arquillian, JUnit). Also developed a couple of applications using Javascript/Typescript stack (Node.js, Loopback.js, React, Electron, Mocha, Chai).</samp>
+<samp>Project leadership with local and remote outsourced teams using both agile and traditional (PMBOK) methodologies and best practices. Besides project leadership, I also worked on development of backend APIs and frontend using Java platforms (EJB, JSF, Arquillian, JUnit) and Node.js (Loopback.js, React, Electron, Mocha, Chai).</samp>
 
 ## Ies Brazil Consulting & Services / Petrobrás S/A ⛽
 
@@ -52,7 +50,7 @@ Jan 2006 - Nov 2009
 ### Software Developer
 Mar 2002 - Dec 2005
 
-<samp>Software development using Microsoft .NET platform with Visual Studio and C#, consisting of web applications, SOAP web services, windows forms and windows services. Deliveries made over the years have enabled it to meet a variety of corporate needs, such as: Asset risk assessment; investor application and withdraw requests; calculation of income tax on investments; registration, approval, control of investor documents; application of framework rules in fund portfolios; data integration with partner systems; communication of execution orders with custodians.</samp>
+<samp>Software development using Microsoft .NET platform and C#, consisting of web applications, SOAP web services, windows forms and windows services in order to achieve a variety of corporate needs, such as: Asset risk assessment; investor application and withdraw requests; calculation of income tax on investments; registration, approval, control of investor documents; data integration with partner systems.</samp>
 
 ## iG 💰
 
