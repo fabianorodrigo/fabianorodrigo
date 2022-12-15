@@ -8,9 +8,9 @@ Rio de Janeiro, Rio de Janeiro, Brazil
 
 # About
 
-<samp>I have more than 20 years of technical experience in software development for different business areas using a diversified technology stack, such as .NET, C#, J2EE, Quarkus, Spring Boot, Node.js, Javascript, React, Typescript, Angular etc.</samp>
+<samp>I have more than 20 years of technical experience in software development for different business areas using a diversified technology stack, such as Spring Boot, Angular,  Node.js, J2EE, Solidity and others.</samp>
 
-<samp>In the last 3 years, I've been working on side projects for blockchain which technology stack includes Hardhat, Waffle, Truffle, Ganache, Ethers.js, Web3.js, Solidity, Openzeppelin, Angular. I'm also making use of different solutions of CI/CD, for now Circle CI and Github Actions, includind build, integration tests and static analysis with Slither.</samp>
+<samp>In the last 3 years, I've been working on side projects for EVM blockchains with Solidity and making use of the most popular resources: hardhat, Truffle, Ganache, Ethers.js, Web3.js, OpenZeppelin and Slither. Besides the smart contracts and tests, these projects include different CI/CD solutions like Circle CI and Github Actions.</samp>
 
 # Professional Experience
 
@@ -60,6 +60,16 @@ Mar 2002 - Dec 2005
 Jan 2001 - Feb 2002
 
 <samp>Analysis and development of web applications that, among other features, allowed the registration of fund and equity investment operations, adherence to private pension plans, comparison of interest rates on loans with different financial institutions and monitoring of market information. The development was performed using ASP, Visual Basic, VBScript, JavaScript, SQL Server, among others.</samp>
+
+# Web3 Courses
+
+### DeFi
+Central Bank of Brazil| Jul 2022 - Nov 2022 (40h)
+
+<samp>This course included a hackathon where our team developed a Decentralized Identity Solution based on Non-Tradable Tokens Standard (ERC-4671) and Metamask snaps. I particularly was in charge of smart contracts development.</samp>
+
+### NFT
+Udemy - Clarian North | May 2022 - Jun 2022 (24h)
 
 
 # Education
